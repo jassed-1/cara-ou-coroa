@@ -1,0 +1,27 @@
+import random
+
+x = input('quantas vezes voce quer jogar:')
+
+cara = 0
+coroa = 0
+meio = 0 
+
+for i in range(0, x):
+                                                       
+  m = random.randint(0, 2)
+	
+  if 0 == m:
+     print('cara'.format(m))
+     cara = cara + 1 
+  if 1 == m:
+     print('coroa') 
+     coroa = coroa + 1
+  if 2 == m:
+     print('meio') 
+     meio = meio + 1
+
+print('quantas jogada:',x)
+print('quantas caras:',cara)	
+print('quantas coroas:',coroa) 
+print('quantas meio:',meio) 
+
