@@ -5,10 +5,10 @@ joga uma determinada quantidade de vezes o jogo do cara e cora e depois conta qu
 
 ----
 
-Compilação
+Executar
 ----------
 
-Efetuar a compilação do código-fonte:
+Efetuar a Execucão do código-fonte:
 
 
         $ python3 cac
