@@ -25,11 +25,11 @@ executar para simular um jogo de cara ou coroa e contar quantas vezes caiu cara 
 
 Exemplos
 -------- 
-5
-cara
-cora
-cara
-coroa
-coroa
-cara:2
-coroa:3
+    5
+    cara
+    cora
+    cara
+    coroa
+    coroa
+    cara:2
+    coroa:3
