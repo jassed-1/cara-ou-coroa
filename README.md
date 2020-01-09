@@ -8,7 +8,7 @@ joga uma determinada quantidade de vezes o jogo do cara e cora e depois conta qu
 Executar
 ----------
 
-Efetuar a Execucão do código-fonte:
+       Efetuar a execução do código-fonte:
 
 
         $ python3 cac
@@ -19,7 +19,7 @@ Efetuar a Execucão do código-fonte:
 Uso 
 ---
 
-executar para simular um jogo de cara ou coroa e contar quantas vezes caiu cara e quantas coroa 
+simular um jogo de cara ou coroa e contar quantas vezes caiu cara e quantas coroa 
 
 ----
 
