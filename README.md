@@ -1,7 +1,7 @@
 cara_coroa
 ================
 
-joga uma determinada quantidade de vezes o jogo do cara e cora e depois conta quantas vezes caiu cara e quantas coroa
+Joga uma determinada quantidade de vezes o jogo do cara e cora e depois conta quantas vezes caiu cara e quantas coroa
 
 ----
 
@@ -18,8 +18,7 @@ Executar
 
 Uso 
 ---
-
-simular um jogo de cara ou coroa e contar quantas vezes caiu cara e quantas coroa 
+Simular um jogo de cara ou coroa e contar quantas vezes caiu cara e quantas coroa 
 
 ----
 
